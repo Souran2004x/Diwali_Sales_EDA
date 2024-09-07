@@ -1,0 +1,1 @@
+Analysed a Diwali Sales data through Exploratory Data Analysis.Identified valuable insights on several parameters like gender,product category,age group,occupation and states with respect to counts,orders and sales.
